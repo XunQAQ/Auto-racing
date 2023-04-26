@@ -1,6 +1,6 @@
 
 # Auto-racing Reinforcement Learning Project
-### This project is an implementation of reinforcement learning techniques for autonomous driving in a simulated racing environment. Specifically, we use the DeepRacer environment and car model provided by Amazon Web Services (AWS).
+### This project is an implementation of reinforcement learning techniques for autonomous driving in a simulated racing environment.
 
 ### Project Overview
 The project consists of two main components: the environment and the agent. The environment is responsible for simulating the racing track and providing the agent with relevant information such as the car's position, velocity, and sensor readings. The agent is responsible for making decisions about the car's actions based on this information and updating its policy accordingly to maximize its reward.
